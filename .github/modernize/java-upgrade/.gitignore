@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Java / Kotlin
+out/
+bin/
+*.class
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
