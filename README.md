@@ -1,4 +1,4 @@
-# 🩺 Health Monitor v2.4
+# 🩺 Health Monitor v1.0
 
 <p align="center">
   <img src="docs/Home interface.jpg" alt="Health Monitor Home Screen" height="640" width="320">
