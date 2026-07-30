@@ -1,7 +1,7 @@
 # 🩺 Health Monitor v2.4
 
 <p align="center">
-  <img src="docs/Home interface.jpg" alt="Health Monitor Home Screen" height="550">
+  <img src="docs/Home interface.jpg" alt="Health Monitor Home Screen" height="640" width="320">
 </p>
 
 <p align="center">
