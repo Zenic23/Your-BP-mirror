@@ -1,7 +1,7 @@
 # 🩺 Health Monitor v2.4
 
 <p align="center">
-  <img src="docs/Home interface.jpg" alt="Health Monitor Home Screen" width="850">
+  <img src="docs/Home interface.jpg" alt="Health Monitor Home Screen" height="550">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ This project was built to strengthen practical skills in Java backend developmen
 ## 🏠 Home Screen
 
 <p align="center">
-<img src="docs/Home interface.jpg" width="900">
+<img src="docs/Home interface.jpg" height="550">
 </p>
 
 ---
@@ -41,7 +41,7 @@ This project was built to strengthen practical skills in Java backend developmen
 ## 📊 Diagnosis Result
 
 <p align="center">
-<img src="docs/result.png" width="900">
+<img src="docs/Result.png" height="550">
 </p>
 
 ---
