@@ -41,7 +41,7 @@ This project was built to strengthen practical skills in Java backend developmen
 ## 📊 Diagnosis Result
 
 <p align="center">
-<img src="docs/Result.png" height="550">
+<img src="docs/Result.jpg" height="550">
 </p>
 
 ---
